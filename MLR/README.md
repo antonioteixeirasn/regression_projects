@@ -1,6 +1,6 @@
 # Regressão Linear Múltipla
 
-## Introduction
+## Introdução
 Nesse projeto, você será capaz de aplicar um modelo de regressão linear múltipla em um dataset contendo informações de 50 startups!
 
 ## Objetivos
@@ -15,6 +15,16 @@ Nesse projeto, você será capaz de aplicar um modelo de regressão linear múlt
 As informações contidas nesse dataset foram coletadas de 50 startups de Nova York, Califórnia e Flórida. As variáveis usadas nesse   
 dataset são: Lucros (Profit), gastos com P&D (R&D spending), gastos administrativos (administration spending), gastos com marketing  
 (marketing spending) e o estado na qual a empresa está localizada (state).
+
+Abaixo pode-se observar as 5 primeiras linhas desse dataset:
+
+|R&D Spend| Administration| Marketing Spend| State| Profit|
+|---| ---| ---| ---| ---| 
+|165349.20|136897.80|471784.10|New York   |192261.83|
+|162597.70|151377.59|443898.53|California |191792.06|
+|153441.51|101145.55|407934.54|Florida    |191050.39|
+|144372.41|118671.85|383199.62|New York   |182901.99|
+|142107.34|91391.77 |366168.42|Florida    |166187.94|
 
 ## One Hot Encoding
 
