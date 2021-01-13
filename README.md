@@ -2,7 +2,7 @@
 
 ## Introdução
 Esse repositório contém projetos nos quais aplicou-se as mais variadas estratégias de Regressão, desde Regressão Linear Múltipla  
-até Redes Neurais Artificiais e Árvore de Decisão. O objetivo com esses códigos é iniciar os estudos em Machine Learning e  
+até Redes Neurais Artificiais e Árvore de Decisão! O objetivo com esses códigos é iniciar os estudos em Machine Learning e  
 aprofundar os conhecimentos nas ferramentas.
 
 ## Estratégias de Regressão
