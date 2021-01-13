@@ -34,4 +34,4 @@ colunas composta por 1 e 0, onde 1 corresponde a um valor afirmativo.
 
 ## Conclusão
 Com esse código é possível aplicar conhecimentos de Machine Learning aplicando um modelo de Regressão Linear Múltipla para prever  
-os lucros de startups com base nos seus gastos com P&D, administrativos, e com marketing, além do estado na qual está cituada.
+os lucros de startups com base nos seus gastos com P&D, administrativos, e com marketing, além do estado na qual está situada.
